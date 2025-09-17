@@ -168,7 +168,8 @@ Play, NetEnt y muchos otros. Cada juego pasa por rigurosos controles de
 calidad antes de ser anadido al catalogo. La variedad abarca desde
 tragaperras tematicas hasta juegos de mesa tradicionales, pasando por
 experiencias de casino en vivo que recrean la atmosfera autentica de un
-casino fisico.
+casino fisico. Consulta las cuotas y promociones de [Highflybet](https://highflybet.com.es) y apuesta con responsabilidad.
+
 
 ### **Maquinas Tragaperras y Slots**
 
@@ -188,7 +189,8 @@ de bonificacion interactivas. Cada maquina cuenta con graficos de alta
 definicion y efectos sonoros envolventes que intensifican la
 experiencia. Los jackpots progresivos anaden una dimension extra de
 emocion, con premios que pueden alcanzar cifras verdaderamente
-impresionantes.
+impresionantes. Guarda [Vincispin](https://vincispin.com.es) en tus favoritos para volver cuando quieras.
+
 
 ### **Juegos de Mesa y Casino Clasico**
 
@@ -227,7 +229,8 @@ terminos claros y justos, disenados para ser transparentes y
 comprensibles. El equipo de promociones trabaja constantemente en el
 desarrollo de nuevas ofertas que se adapten a los diferentes estilos de
 juego. Las bonificaciones se actualizan regularmente para mantener la
-frescura y el interes de la comunidad de jugadores.
+frescura y el interes de la comunidad de jugadores. Descubre las promociones y juegos de [Billionairespin](https://billionairespin.es) y juega con responsabilidad.
+
 
 ### **Bonus de Bienvenida Generoso**
 
