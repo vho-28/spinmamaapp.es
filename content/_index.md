@@ -120,7 +120,7 @@ seguridad internacionales.
 
 ### **Creacion de Cuenta Paso a Paso**
 
-Crear tu cuenta en **casino spinmama** es un proceso que requiere
+Crear tu cuenta en **casino [Spinmama](https://spin-mama.es)** es un proceso que requiere
 unicamente unos pocos datos basicos para comenzar. Los usuarios deben
 acceder al sitio web oficial desde su navegador preferido o dispositivo
 movil. El boton de registro se encuentra claramente visible en la parte
