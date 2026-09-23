@@ -8,7 +8,7 @@
 {{- if and (ne $activeVariant "default") $activeVariant -}}
   {{- $bodyClass = printf "theme-variant-%s" ($activeVariant | lower) -}}
 {{- end -}}
-<body class="{{- $bodyClass -}}{{- block "body-class" . -}}{{- end -}}">
+<body class="{{- $bodyClass -}}{{- block "body-class" . -}}{{- end -}}" data-build-p5a30e594b7732379bad623e95d34346c>
   <div class="site-wrapper">
     {{- partial "header.html" . -}}
     <main id="content" role="main">

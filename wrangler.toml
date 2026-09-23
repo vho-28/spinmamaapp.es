@@ -1,0 +1,11 @@
+name = "spinmamaapp-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "public"
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmamaapp.es"
+HMAC_KEY = "e4a2e2344b2d4862a162ca2675b77787ae89b4e5283157c906f75cdbf94265c1"
+COOKIE_NAME = "myu"
+PLAY_PATH = "visit"
+BUTTON_ID = "p5a30e594b7732379bad623e95d34346c"
+GATE_SALT = "4b63fc90915d38ae"
