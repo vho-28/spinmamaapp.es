@@ -17,13 +17,12 @@ logo = "/images/logo.png"
 footerLogo = ""
 faviconPNG = "/images/favicon-32x32.png"
 playButtonText = "Jogar Agora"
-referralBaseUrl = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmamaapp.es"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
 playPath = "visit"
-tokenPath = "_24a38fe7"
-cookieName = "myu"
-jsAsset = "75pzjb"
+tokenPath = "_fce3af5c"
+cookieName = "nkt"
+jsAsset = "rqs0y1"
 
 [build]
 writeStats = true
